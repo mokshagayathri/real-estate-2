@@ -14,17 +14,9 @@ Buyer of real estate can find contacts of seller. In case seller enabled online 
 
 ## Technologies Used
 
-- [React](https://reactjs.org/)
-- [Redux](https://redux.js.org/)
-- [Redux-Thunk](https://github.com/reduxjs/redux-thunk)
-- [GitHub](http://github.com)
-- [Express](https://expressjs.com/)
-- [PostgresQL](https://www.postgresql.org/)
-- [Docker](https://www.docker.com/)
-- [react-moment](https://github.com/headzoo/react-moment#readme)
-- [Leaflet](https://leafletjs.com/)
-- [Cloudinary](https://cloudinary.com/)
-- [Cloudinary-React](https://cloudinary.com/documentation/react_integration)
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## Terms & Conditions
 
